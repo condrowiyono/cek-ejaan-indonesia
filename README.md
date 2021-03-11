@@ -8,7 +8,7 @@ Pengecek Ejaan Bahasa Indonesia untuk MacOS diambil dari project Open Office Ext
 4. Masukkan alamat berikut `~/Library/Spelling` ![image](https://user-images.githubusercontent.com/14830052/110819131-77ca2400-82c0-11eb-8dd7-a62ebc4e0341.png)
 .
 5. Salin dan Tempel kedua file `id.aff` dan `id.dic` pada folder tersebut ![image](https://user-images.githubusercontent.com/14830052/110819262-96301f80-82c0-11eb-9e4e-7dc05a96a3c8.png)
-6. Masuk ke System Preference. Pilih Keyboard. ![image](https://user-images.githubusercontent.com/14830052/110819355-b069fd80-82c0-11eb-88e3-39946a0edff3.png)
+6. Masuk ke System Preference. Pilih Keyboard.
 7. Masuk ke Tab Text dan `Indonesia (Library)` pada Pilihan Spelling. ![image](https://user-images.githubusercontent.com/14830052/110819519-d8f1f780-82c0-11eb-9699-3bb88c0b0e32.png)
 8. Berhasil. Saat ini dapat menggunakan pengecekan ejaan bahasa Indonesia di Mac OS Anda. 
 
