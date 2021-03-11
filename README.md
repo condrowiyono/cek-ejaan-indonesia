@@ -1,4 +1,4 @@
-# oxt-id
+# cek-ejaan-indonesia
 Pengecek Ejaan Bahasa Indonesia untuk MacOS diambil dari project Open Office Extension
 
 ## Cara Instal
