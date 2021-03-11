@@ -33,3 +33,6 @@ Fail .aff (affiks) diperbaharui samasekali, sehingga jauh lebih sesuai dengan si
 Fail .dic (daftar kata) diperiksa dengan semua lemma dari Kamus Besar Indonesia, edisi 3
 
 Fail hyphenator tidak mengalami perubahan.
+
+## Link Asli:
+- https://extensions.libreoffice.org/assets/downloads/z/id-id.oxt
