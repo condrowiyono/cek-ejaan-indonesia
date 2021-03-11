@@ -1,6 +1,4 @@
 # oxt-id
-Mac OS Indonesian Spell Checker from Open Office Extension Project
-------
 Pengecek Ejaan Bahasa Indonesia untuk MacOS diambil dari project Open Office Extension
 
 ## Cara Instal
